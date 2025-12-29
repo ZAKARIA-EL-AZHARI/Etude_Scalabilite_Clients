@@ -8,9 +8,9 @@
 
 | Méthode | Temps Moyen (ms) | Débit (req/s) | P95 (ms) |
 | :--- | :--- | :--- | :--- |
-| **RestTemplate** 95 | | | |
-| **Feign** 85 | | | |
-| **WebClient** 60 | | | |
+| **RestTemplate**  |95 |310 | 150|
+| **Feign**  |85 | 350|135 |
+| **WebClient**  |60 | 420|100 |
 
 **Configuration Consul**
 
